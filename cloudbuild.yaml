@@ -4,6 +4,3 @@ steps:
 
 images:
   - 'gcr.io/nbygeiwwwj/frps'
-
-options:
-  logging: 'NONE'
