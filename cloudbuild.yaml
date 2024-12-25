@@ -6,4 +6,4 @@ images:
   - 'gcr.io/nbygeiwwwj/frps'
 
 options:
-  logging: 'default_logs_bucket_behavior'
+  logging: 'NONE'
