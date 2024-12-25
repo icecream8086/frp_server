@@ -6,3 +6,5 @@ steps:
     '-f', 'dockerfiles/Dockerfile-for-frps',
     '.'
   ]
+options:
+  logging: CLOUD_LOGGING_ONLY
